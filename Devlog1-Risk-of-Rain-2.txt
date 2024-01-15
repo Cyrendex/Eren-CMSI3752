@@ -1,0 +1,10 @@
+Devlog #1: Risk of Rain 2
+==========================
+What are the core systems of this game? If you were leading the creation of it, which one would you have started with?
+- There are quite a few systems in place: enemy spawns, procedural generation of stages, timer for difficulty adjustment, teleporter boss battle sequences, looting systems and so on. If I were to lead the development, I would start with the movement of the characters, then do procedural terrain generation, loot generation and mechanics, timer, and then teleporters between stages.
+
+What are the selling point of the game? What parts are less memorable?
+- The replayability and amount of characters, along with kickass music and not-so-tiring gameplay loop are great. The intro cutscene wasn't too captivating. The last(?) boss was a GREAT letdown for the buildup it took to get there. The only "whoa" moment it had was taking in my items. It just promptly spew 80% of it back after I gave it a railgun shot on the head.
+
+-Write down a potential idea for your final game.
+This is going to be unrelated to Risk of Rain 2. From my childhood, I can't help but miss this game called DDTank/Gunny among many other names it had apparently. It was a basic 2D MMO, where the main content came from either PvE battles against set stages or PvP between players/guilds. Everyone had a set amount of equipment slots, most had the same stats but different cosmetic effects on you. The items that fluctuated the most were weapons and secondary items, which either had very different stats or mechanics. I might try to pull a very mini remake of that game. It has a LOT of intricacies that are intuitive at first glance. However, I know better after spending hours on orienting a bullet.
