@@ -1,0 +1,14 @@
+-What are the core systems of this game? If you were leading the creation of it, which one would you work on first?
+Hades has a procedurally generating map and implements rougelike elements like permadeath and incremental upgrades for each run. These upgrades are customizable to an extend where you can choose one variaton over the other for around 12 different perks. The combat system is very fluid, and in my opinion, is what makes the game stand out (of course, the narrative is immaculate too). If I were leading the creation, I would start with the story, character design, and then combat mechanics.
+
+-What are the selling point of the game? What parts are less memorable?
+I did ramble about this above, but to reiterate: the narrative and combat mechanics.
+
+-Any comparisons to be made with the game you played last week?
+Well, they are rougelikes. I haven't experienced RoR2 to its fullest, but it seems that you get less benefits from the start of a run even though you unlock new content. I heard about artifacts, and even unlocked one. I didn't get the chance to use it though RoR2 elitists see the usage of artifacts as a "wuss" move haha.
+
+-How has this game aged? Performance wise? Stylistically?
+Very good! Can't wait for Hades 2.
+
+-Write down a new idea for your final project.
+Don't have one lol
