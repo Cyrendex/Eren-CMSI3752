@@ -1,0 +1,13 @@
+Devlog #3: Teardown
+==========================
+-How long do you think it took to make this game?
+	I would give it a solid 3 years.
+
+-What do you think was the hardest mechanic to implement?
+	I don't have experience in voxel based games, but it most likely was the physics/destruction. It can be annoying to implement that in a way that doesn't feel off to the player.
+
+-What is the selling point of this game?
+	I haven't played much, but voxel-games have a charm to them. I like the options it offers to clear different missions. I thought it was a mindless destroy house simulator when playing the first level in campaign. Glad that wasn't the case.
+
+-How does this compare to other games you've played?
+	From the two, this was my least favorite. However, that doesn't mean that I didn't like it. The previous 2 games were roguelikes (big plus) AND games I knew I would enjoy before this class. I'm glad I got to expand my palette.
