@@ -1,0 +1,4 @@
+March 14, 2024:
+- Imported character animations
+- Linked animations to the current state of the character.
+
